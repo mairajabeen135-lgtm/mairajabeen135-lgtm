@@ -16,13 +16,14 @@ I am a Computer Science student passionate about **Governance, Risk, and Complia
 
 ## 🛡️ Hands-On Projects
 
-### 📊 [Cybersecurity Risk Assessment & Incident Analysis](https://github.com/mairajabeen135-lgtm/Cybersecurity-Risk-Assessments)
+### 📊 [Cybersecurity Risk Assessment & Incident Analysis](https://github.com/mairajabeen135-lgtm/CyberSecurity-Risk-Assessments--Incident-Response)
 Performed structured risk evaluations and incident analysis based on enterprise scenarios:
 
-1. **RetailNova Risk Assessment (5 Core Risks):** —
+1. **RetailNova Risk Assessment (5 Core Risks):** — [View PDF Report](https://github.com/mairajabeen135-lgtm/CyberSecurity-Risk-Assessments--Incident-Response/blob/main/RetailNova_Risk_Assessment_FINAL.pdf)
    - Evaluated 5 critical risks: Phishing (R-01), Third-Party Breach (R-02), Ransomware (R-03), BYOD Security (R-04), and Cloud Access (R-05).
    - Scored threats using Likelihood vs. Consequence rating and established $5 \times 5$ Risk Prioritisation Matrix with mitigations and risk ownership.
-2. **Orion Health Services Incident Report:**
+
+2. **Orion Health Services Incident Report:** — [View PDF Report](https://github.com/mairajabeen135-lgtm/CyberSecurity-Risk-Assessments--Incident-Response/blob/main/Orion_Health_Services_Cybersecurity_Incident_Report_clean.pdf)
    - Evaluated a ransomware breach involving Mimikatz credential theft and `.orionlock` encryption.
    - Performed CIA Triad impact analysis and defined immediate containment steps.
 
