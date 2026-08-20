@@ -19,7 +19,7 @@ I am a Computer Science student passionate about **Governance, Risk, and Complia
 ### 📊 [Cybersecurity Risk Assessment & Incident Analysis](https://github.com/mairajabeen135-lgtm/Cybersecurity-Risk-Assessments)
 Performed structured risk evaluations and incident analysis based on enterprise scenarios:
 
-1. **RetailNova Risk Assessment (5 Core Risks):** — [View PDF Report](https://github.com/mairajabeen135-lgtm/Cybersecurity-Risk-Assessments/blob/main/RetailNova_Risk_Assessment_FINAL_3.pdf)
+1. **RetailNova Risk Assessment (5 Core Risks):** —
    - Evaluated 5 critical risks: Phishing (R-01), Third-Party Breach (R-02), Ransomware (R-03), BYOD Security (R-04), and Cloud Access (R-05).
    - Scored threats using Likelihood vs. Consequence rating and established $5 \times 5$ Risk Prioritisation Matrix with mitigations and risk ownership.
 2. **Orion Health Services Incident Report:**
